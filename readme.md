@@ -4,6 +4,28 @@
 
 Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset (Disediakan oleh Dicoding Indonesia). Tujuan akhirnya adalah untuk menganalisis hingga visualisasi data sehingga informasi yang didapat dapat digunakan oleh pihak yang berkepentingan untuk mengambil keputusan.
 
+## Instalasi dan Penggunaan
+
+1. Clone repository ini ke local computer menggunakan perintah berikut:
+
+   ```shell
+   git clone https://github.com/ihsanuramdan/dicoding.git
+   ```
+
+2. Install library yang diperlukan dengan menjalan perintah:
+   ```shell
+   pip install -r requirements.txt
+   ```
+
+3. Masuk ke direktori file (Local):
+
+   ```shell
+   cd dicoding/dashboard/
+   streamlit run main.py
+   ```
+
+   Atau bisa dengan kunjungi website ini [Project Data Analytics](https://dashboardecommerceihsanu.streamlit.app/)
+
 ## Direktori
 
 Dicoding\
