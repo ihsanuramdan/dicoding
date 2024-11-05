@@ -6,26 +6,26 @@ Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset (Dis
 
 ## Direktori
 
-Dicoding
-├───.devcontainer
-| └───devcontainer.json
-├───dashboard
-| ├───all_data.csv
-| ├───logo.png
-| └───main.py --> Berkas Python (.py) yang digunakan untuk membuat dashboard dengan streamlit.
-├───data
-| ├───customers_dataset.csv
-| ├───geolocation_dataset.csv
-| ├───order_items_dataset.csv
-| ├───order_payments_dataset.csv
-| ├───order_reviews_dataset.csv
-| ├───orders_dataset.csv
-| ├───product_category_name_translation.csv
-| ├───products_dataset.csv
-| └───sellers_dataset.csv
-├───Proyek_Analisis_Data.ipynb --> Berkas Jupyter Notebook (.ipynb)
-├───readme.md
-└───requirements.txt
+Dicoding\
+├───.devcontainer\
+| └───devcontainer.json\
+├───dashboard\
+| ├───all_data.csv\
+| ├───logo.png\
+| └───main.py --> Berkas Python (.py) yang digunakan untuk membuat dashboard dengan streamlit.\
+├───data\
+| ├───customers_dataset.csv\
+| ├───geolocation_dataset.csv\
+| ├───order_items_dataset.csv\
+| ├───order_payments_dataset.csv\
+| ├───order_reviews_dataset.csv\
+| ├───orders_dataset.csv\
+| ├───product_category_name_translation.csv\
+| ├───products_dataset.csv\
+| └───sellers_dataset.csv\
+├───Proyek_Analisis_Data.ipynb --> Berkas Jupyter Notebook (.ipynb)\
+├───readme.md\
+└───requirements.txt\
 └───url.txt
 
 ## Penerapan Saran
